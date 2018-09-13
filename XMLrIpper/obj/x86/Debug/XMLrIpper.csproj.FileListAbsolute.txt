@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\bin\Debug\XMLrIpper.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\bin\Debug\XMLrIpper.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\XMLrIpper.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\XMLrIpper.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\XMLrIpper.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\XMLrIpper\XMLrIpper\obj\x86\Debug\XMLrIpper.pdb
